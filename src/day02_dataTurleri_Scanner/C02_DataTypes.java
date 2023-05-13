@@ -28,4 +28,4 @@ public class C02_DataTypes {
         // tamsayilar icin int, ondalikli sayilar icin de double kullaniriz
     }
     }
-}
+
